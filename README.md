@@ -36,3 +36,7 @@ pick your Team, and change the bundle ID from `com.example.MotorMind` to somethi
 | `BrainLabView.swift` | Reaction-time test |
 | `ProgressDashboardView.swift` | Charts and history |
 | `LearnView.swift` | Learn articles |
+
+
+## About
+MotorMind is an IOS application made with Swift. It is based of an EEG research based on reading brain signals, such as mundane movements of the limbs. The original prototype and final products were run on Xcode's virtual machine (Ipad Duo), but can be easily run on an iphone.
